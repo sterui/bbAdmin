@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BellaBluAdmin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_due">Due</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="title_activity_risultati">Risultati</string>
+    <string name="title_activity_inserisci">Inserisci</string>
+
+    <string-array name="bellablu">
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
+    </string-array>
+    <string-array name="bellablu2">
+        <item>cucina</item>
+        <item>pulizia</item>
+        <item>servizio</item>
+    </string-array>
+    <string-array name="bellablu3">
+        <item>English</item>
+        <item>Italian</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Spanish</item>
+        <item>Russian</item>
+    </string-array>
+    <string-array name="bellablu4">
+        <item>1 Stella</item>
+        <item>2 Stelle</item>
+        <item>3 Stelle</item>
+        <item>4 Stelle</item>
+        <item>5 Stelle</item>
+    </string-array>
+    <string-array name="bellablu5">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+    <string name="title_activity_dipartimento">Dipartimento</string>
+    <string name="title_activity_nazione">Nazione</string>
+    <string name="title_activity_mese">Mese</string>
+    <string name="title_activity_tab_bar">TabBar</string>
+    <string name="title_activity_tab1">Tab1</string>
+    <string name="title_activity_tab2">Tab2</string>
+    <string name="title_activity_tab3">Tab3</string>
+    <string name="title_activity_cancella">Cancella</string>
+    <string name="title_activity_voti">Voti</string>
+    <string name="title_activity_giorno">Giorno</string>
+    <string name="title_activity_altro">Altro</string>
+    <string name="title_activity_pdf">PDF</string>
+
+</resources>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bellabluadmin"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.bellabluadmin.Login"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Due"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_due"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Admin"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_admin"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Risultati"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_risultati"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Consulta"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_inserisci"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Dipartimento"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_dipartimento"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Nazione"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_nazione"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Mese"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/title_activity_mese"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.TabBar"
+            android:label="@string/title_activity_tab_bar" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Tab1"
+            android:label="@string/title_activity_tab1" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Tab2"
+            android:label="@string/title_activity_tab2" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Tab3"
+            android:label="@string/title_activity_tab3" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Cancella"
+            android:label="@string/title_activity_cancella" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Voti"
+            android:label="@string/title_activity_voti" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Giorno"
+            android:label="@string/title_activity_giorno" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.Altro"
+            android:label="@string/title_activity_altro" >
+        </activity>
+        <activity
+            android:name="com.bellabluadmin.PDF"
+            android:label="@string/title_activity_pdf" >
+        </activity>
+    </application>
+
+</manifest>

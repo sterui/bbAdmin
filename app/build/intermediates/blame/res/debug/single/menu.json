@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pd.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\pd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\admin.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\due.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\due.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nazione.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\nazione.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mese.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\mese.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\altro.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\altro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cancella.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\cancella.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tab1.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\giorno.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\giorno.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\inserisci.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\inserisci.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tab2.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\voti.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\voti.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dipartimento.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\dipartimento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tab_bar.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\tab_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tab3.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\tab3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\risultati.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluAdmin\\app\\src\\main\\res\\menu\\risultati.xml"
+    }
+]
